@@ -50,5 +50,4 @@ def create_an_empty_array
     update_element_from_index(array, index_number, element)
     update_element_from_index = ["wow", "I", "am", "really", "learning", "arrays!"]
     update_element_from_index[3] = "totally"
-   p update_element_from_index
   end
