@@ -35,5 +35,4 @@ def create_an_empty_array
     retrieve_element_from_index(array, index_number)
     retrieve_element_from_index = ["wow", "I", "am", "really", "learning", "arrays!"]
     retrieve_element_from_index[2]
-  p index_number[2]
   end
