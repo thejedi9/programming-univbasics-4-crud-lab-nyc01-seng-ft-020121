@@ -46,4 +46,9 @@ def create_an_empty_array
     retrieve_last_element_from_array = ["wow", "I", "am", "really", "learning", "arrays!"]
     retrieve_last_element_from_array[-1]
   end
-  
+  def 
+    update_element_from_index(array, index_number, element)
+    update_element_from_index = ["wow", "I", "am", "really", "learning", "arrays!"]
+    update_element_from_index[3] = "totally"
+   p update_element_from_index
+  end
